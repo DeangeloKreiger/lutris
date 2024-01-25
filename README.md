@@ -1,6 +1,6 @@
-# Learn More Python
+##Learn More Python
 
-Colleagues asked me for some resources so they could learn more Python. So, here you go!
+Colleagues asked me for some resources so they could learn more Python. So, here you go*
 
 ## New to Python or coding? Start here. (Updated 2022)
 
@@ -179,3 +179,4 @@ If you're coming from Java, you should [watch this](https://www.youtube.com/watc
 Writing a program and none of the guides/docs are helping out? Ask real programmers for help on [Stackoverflow](http://stackoverflow.com/documentation/python/topics) 
 
 </details>
+ 
